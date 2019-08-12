@@ -1,1 +1,1 @@
-module github.com/decred/slog
+module github.com/fistchain/slog
